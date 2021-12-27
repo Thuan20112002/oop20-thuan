@@ -55,5 +55,6 @@ public class OOP20 {
         //KỸ THUẬT CẠM VÀO THỨ RIÊNG TƯ CỦA CON
         //BA KO BIẾT TRONG SG CON LÀM GÌ, VẬY LÀM SAO BA CÓ THỂ BIẾT???
         //DÙNG KỸ THUẬT DRIFT CON TRỎ
+        {
     }
 }
