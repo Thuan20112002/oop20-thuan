@@ -1,3 +1,5 @@
+[![Math-Util with CI | © 2021 Thuan](https://github.com/Thuan20112002/oop20-thuan/actions/workflows/Thuan-ci.yml/badge.svg)](https://github.com/Thuan20112002/oop20-thuan/actions/workflows/Thuan-ci.yml)
+
 # Welcom to Math-Util Repository
 
 ### You will find in this repo the fllowing stuff:
