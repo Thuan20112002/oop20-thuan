@@ -5,3 +5,8 @@
 Technique
 * The Junit Test source code to implement TDD technique
 * ...
+
+### Screen shot
+![Junit with TDD](https://github.com/Thuan20112002/oop20-thuan/blob/main/images/math-util-introl.jpg)
+
+© 2021 NguyenThuan | fb/NguyenThuan.lag.bis
